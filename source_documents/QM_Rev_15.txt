@@ -1,174 +1,0 @@
-1 PURPOSE
-The purpose of the Quality Manual is to outline the scope of the Solon Quality Management System (QMS) including:
-* References to the documented procedures and the structure of the documentation
-* A description of the interaction of the processes related to the QMS2 SCOPE
-The Quality Management System is a Solon site level system that applies to the design, manufacture, and supply of specialty and bulk fine chemicals.  
-The regulations that apply to the Solon site Quality system are as follows:
-* ISO 9001 – Non compendial, non-regulated chemicals and reagents
-* ISO 13485 – Chemicals and reagents classified as medical devices registered with the FDA
-* 21 CFR 820 – Regulated chemicals and reagents
-Any customer-specific regulations will be applied as defined in Customer Quality Agreements.
-Out of Scope:
-* Solon does not manufacture or supply any active implantable or implantable medical devices and has determined requirements related to these types of products to be non-applicable to its Quality Management System.
-* Solon does not manufacture or supply any sterile medical devices and has determined requirements related to these types of products to be non-applicable to its Quality Management System.
-* Solon does not perform stability studies on-site.  Refer to QSP 7.12 for details.
-* Solon does not perform Recovery of Materials and Solvents from reactions (Q7 section 14.4)3 RESPONSIBILITIES
-RoleResponsibilityAll Solon AssociatesHave the authority and obligation to place a momentary hold on shipments or other business activity and request an immediate review by applicable management staff if they believe a serious compromise to quality is imminent.
-
-This policy supports the site Quality Policy and empowers every Associate to maintain high quality standards in his or her work.  Associates who encounter a situation where they believe quality is being jeopardized or compromised are urged to escalate the matter through their management chain or to the management representative.
-
-Responsible for complying with the Quality Management System and related procedures and work instructions.
-In the event of a non-conformance or failure to follow the instructions detailed in the Quality Management System, department associates are responsible for notifying their Supervisor or Process Owner, who will then take the necessary corrective action.
-Top Management, including the Management RepresentativeAccountable for the overall management and maintenance of the Quality Management System and to ensure that all of the approved, current procedures, work instructions and forms are available for use.Process OwnersResponsible for:
-* Ensuring conformity to the Quality Management System and related procedures, work instructions and forms, by their direct reports.
-* Training direct and indirect reports on Quality policies, procedures, work instructions, and records required by the Quality Management System.
-* In the event of a non-conformance or failure to follow instructions detailed in the Quality Management System, take necessary corrective action in the event of a non-conformance to resolve the issue, and for reporting it to Quality Assurance.
-* Identifying and initiating preventive actions to prevent future occurrences of non-conformances.4 SAFETY CONSIDERATIONS
-TermDefinitionN/AN/A5 DEFINITIONS
-TermDefinitione-QMSElectronic Quality Management SystemWorkdayAvantor online human resources system 6           REFERENCES
-Document #Title / DescriptionFDA 21 CFR 820Quality System Regulations21 CFR part 11Electronic Records; Electronic SignaturesISO 13485Medical Devices – Quality Management System Requirements – Requirements for Regulatory PurposesISO 9001Quality Management System RequirementsQPSolon Quality PolicyQSWI 4.2.2-11Product Data Related to Medical Device Classification and Regulated Product Designations 7 COMPANY OVERVIEW
-
-The Solon site is legally recognized as VWR Chemicals, LLC. and is a part of Avantor.  Avantor is a leading global provider of mission-critical products and services to customers in the biopharma, healthcare, education & government, and advanced technologies & applied materials industries.
-
-The Solon site is a manufacturer and supplier of high purity biochemicals and reagents, specializing in providing products and infrastructure support to growing companies in the Life Science industry.
-
-The Solon site is comprised of two physical locations:
-
-Building #1Building #428600 Fountain Parkway
-Solon, OH 4413929999 Solon Industrial Parkway
-Solon, OH 44139
-Solon is an FDA Registered Facility for Contract Manufacturing of Medical Devices (21CFR820).  
-8 DOCUMENT STRUCTURE
-The Quality Management System document structure contains four levels.  It includes all requirements to meet Solon’s business needs.  An overview of the document structure is depicted below:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9 QUALITY SYSTEM PROCEDURES
-The following procedures provide the framework for the Quality Management System.  These procedures may have lower level of procedures, as well as related work instructions and forms to address Solon’s business processes.  The documents listed below, in addition to additional procedures, work instructions and forms, are maintained in the e-QMS and contain the most current revision of any required Quality Management System document.
-
-QSP 4.2Control of Documents ProcedureQSP 4.3Control of Records ProcedureQSP 5.1Management Commitment, Responsibility, Authority & Communication ProcedureQSP 5.4Management Review ProcedureQSP 6.1Risk Management ProcedureQSP 6.2Human Resources and Training ProcedureQSP 6.3Infrastructure, Equipment and Maintenance ProcedureQSP 6.4Work Environment Control ProcedureQSP 7.2Design and Development ProcedureQSP 7.4Purchasing and Control of Suppliers ProcedureQSP 7.5Production and Process Controls ProcedureQSP 7.6Label Control ProcedureQSP 7.8Product Identification and Traceability ProcedureQSP 7.9Handling, Storage, Preservation, Packaging, and Delivery ProcedureQSP 7.10Validation ProcedureQSP 7.11Control of Monitoring and Measuring Equipment ProcedureQSP 7.12Stability Requirements and GuidanceQSP 8.2Customer Complaints ProcedureQSP 8.4Quality System Audit ProcedureQSP 8.5Monitoring and Measurement of Product and Processes ProcedureQSP 8.6Control of Quality Events and Non-Conforming Product ProcedureQSP 8.8Analysis of Data ProcedureQSP 8.9Corrective and Preventive Action Procedure
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10 INTERACTION OF PROCESSES
-
-
-	11 ORGANIZATION AND ITS CONTEXT
-
-	  11.1	Understanding the organization and its context 
-
-Solon determines external and internal issues relevant to its purpose and its strategic direction that affect its ability to achieve the intended result(s) of its quality management system and has identified the following issues to be considered at a minimum:
-
-External IssuesInternal IssuesRegulatory Standards and RequirementsTraining and CompetencySupplier Performance and DeliveryEmployee Retention / CultureCustomer Complaints and FeedbackGlobal Programs / InitiativesGlobal EnvironmentTechnology / InfrastructureLocal Economy
-
-These issues are monitored and reviewed via Management Review discussions and associated review of relevant metrics.
-
-  11.2 Needs and expectations of Interested Parties
-Solon will monitor and review information concerning each interested party and their relevant requirements as noted in the table below:
-
-Interested PartyRequirementsMonitoringEMPLOYEES* On-Boarding
-* Training and Development
-* Employee Recognition
-* Employee Benefits
-* Employee Safety
-* Communication* Training Reports
-* Recognition Programs
-* Workday
-* EHS3 Process Maps / Reporting
-* Town Hall Meetings
-* Engagement CommitteesCUSTOMERS* Complaint/Feedback Process
-* Change Process
-* Employee Training/Competency
-* Internal / External Audits
-* Corrective / Preventative Action
-* Contracts / Quality Agreements* Complaint Records
-* Change Records
-* Training and Job Profiles
-* Audit Responses
-* Corrective Action Responses
-* Contract RecordsSUPPLIERS* Communication of Issues 
-* Defined Specifications
-* Adequate notification of audits
-* Accurate PO Information
-* Timely payment of invoices* Audit reports / SCAR Records
-* Supplier Reports / Scorecards
-* Supplier requirement files
-* Audit plants
-* Purchase order records
-* Accounting Records
-
-STOCKHOLDERS* Meet financial objectives
-* Regulatory compliance* Financial / Shareholder Reports
-* Regulatory / Agency ReportsCOMMUNITY* Environmental Compliance
-* No disturbances* Regulatory / Agency Reports
-* Neighbor Complaint FilesREGULATORY BODIES* Compliance with requirements* Regulatory Reports / CertificatesBANKS
-INSURANCE COMPANIES* Maintenance of coverage
-* Loans and savings accounts* Contracts managed and reviewed
-
-12 ORGANIZATIONAL CHART
-
-The organizational chart is maintained online as part of Avantor in Workday and continually updated and current.
-
-
-
-ApprovedQuality ManualDocument #:QMRevision:15Process Lead:QMS Process Lead - Solon Quality AssuranceEffective Date:Oct 10, 2022
-
-
-
-Page 1 of 11	Printed 0/0/0000 0:00 AM
-
-
-
-
-
-
